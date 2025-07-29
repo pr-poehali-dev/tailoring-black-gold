@@ -1,14 +1,8 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
 User-agent: *
 Allow: /
+
+Sitemap: /sitemap.xml
+
+# Ателье PENIWORD - пошив одежды в Сочи
+# Пошив мужской и женской одежды, ремонт, подгонка
+# г.Сочи, ул.Донская 3/3, тел: +7(900)250-76-65
